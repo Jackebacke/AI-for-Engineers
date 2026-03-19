@@ -1,3 +1,24 @@
 /.DS_Store
 /Workshops
 /Assignment 1/Data
+.vscode/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+sdist
+var
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
